@@ -22,7 +22,7 @@ make
 ```
 ## Sample Usage:
 
-Sample usage can be found [here] (https://github.com/amzn/aws-apigateway-client-lib/blob/main/aws-apigateway-client/Test.cpp).
+Sample usage can be found [here](https://github.com/amzn/aws-apigateway-client-lib/blob/master/aws-apigateway-client/Test.cpp).
 
 ## Contributing
 See CONTRIBUTING for more information

@@ -22,4 +22,10 @@ make
 ```
 ## Sample Usage:
 
-Sample usage can be found here [link to file once the git project is uploaded].
+Sample usage can be found [here] (https://github.com/amzn/aws-apigateway-client-lib/blob/main/aws-apigateway-client/Test.cpp).
+
+## Contributing
+See CONTRIBUTING for more information
+
+## License
+This project is licensed under the Apache-2.0 License.

@@ -1,3 +1,6 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: Apache-2.0
+
 #include <model/GenericApiGatewayRequest.h>
 #include <model/GenericApiGatewayResponse.h>
 #include <aws/core/client/ClientConfiguration.h>
